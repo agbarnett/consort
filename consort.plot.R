@@ -17,7 +17,7 @@ lost.fu.treatment = died.treatment + 0
 excluded.control = 0
 excluded.treatment = 0
 analysed.treatment = allocate.treatment - excluded.treatment
-analysed.control = allocate.control - excluded.treatment
+analysed.control = allocate.control - excluded.control
 pp.treatment = allocate.treatment - 5
 pp.control = allocate.control - 5
 # labels
